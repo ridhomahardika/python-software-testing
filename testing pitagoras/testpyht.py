@@ -1,5 +1,3 @@
-import pytest 
-
 def hitung_hipotenusa(a, b):
     return (a**2 + b**2) ** 0.5
 
